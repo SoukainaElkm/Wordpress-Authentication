@@ -1,0 +1,42 @@
+# Translation of Plugins - Widget Shortcode - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Widget Shortcode - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-10 20:13:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Widget Shortcode - Development (trunk)\n"
+
+#: includes/class-widget-shortcode-gutenberg.php:68
+msgid "Select the widget you want to show."
+msgstr "Sélectionnez le widget que vous souhaitez afficher."
+
+#: includes/class-widget-shortcode.php:66
+msgid "This widget area is not displayed on frontend and can be used for [widget] shortcode."
+msgstr "Cette zone de widget n’est pas affichée sur l’interface publique et peut être utilisée pour les codes courts de widget."
+
+#. Author of the plugin
+msgid "Hassan Derakhshandeh"
+msgstr "Hassan Derakhshandeh"
+
+#. Description of the plugin
+msgid "Output widgets using a simple shortcode."
+msgstr "Affiche des widgets en utilisant un simple code court."
+
+#. Plugin Name of the plugin
+#: includes/class-widget-shortcode-tinymce.php:41
+#: includes/class-widget-shortcode.php:65 assets/block.js:9
+msgid "Widget Shortcode"
+msgstr "Widget Shortcode"
+
+#: includes/class-widget-shortcode.php:81
+msgid "Please save this first."
+msgstr "Veuillez d’abord enregistrer ceci."
+
+#: includes/class-widget-shortcode.php:81
+msgid "Shortcode"
+msgstr "Code court"

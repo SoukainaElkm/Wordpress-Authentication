@@ -1,0 +1,21 @@
+body::after,
+.section_loader {
+	display: none !important;
+}
+
+html,
+body {
+	overflow: visible !important;
+}
+
+body.full-section-scrolling .module_row {
+	min-height: auto;
+}
+body.full-section-scrolling .module_row.fullheight {
+	min-height: 100vh;
+}
+body.full-section-scrolling .module_row.fullheight > .row_inner,
+body.full-section-scrolling .module_row.fullheight > .row_inner > .module_column {
+	display: flex;
+	min-height: inherit;
+}
