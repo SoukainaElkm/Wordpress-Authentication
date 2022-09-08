@@ -9,3 +9,5 @@ A website i created for my internship in RAK to get the employees to connect and
 
 ## Department Page
 ![page](https://user-images.githubusercontent.com/80215968/189166868-b49b969e-a9f8-4812-9802-080423f84548.png)
+
+More details in my report : https://github.com/SoukainaElkm/Wordpress-Authentication/blob/main/Rapport%20de%20stage%20EL%20KAMOUNI.pdf
